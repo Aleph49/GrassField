@@ -1,0 +1,11 @@
+.vs/ 
+*.pdb 
+*.ipch 
+*.obj 
+*.log 
+*.exe 
+Libraries/ 
+x64/ 
+*pdb 
+*.lib 
+*.pdb 
